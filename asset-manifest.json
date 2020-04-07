@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/new-weather-app-react/static/css/main.edddeda3.chunk.css",
+    "main.js": "/new-weather-app-react/static/js/main.51f51023.chunk.js",
+    "main.js.map": "/new-weather-app-react/static/js/main.51f51023.chunk.js.map",
+    "runtime-main.js": "/new-weather-app-react/static/js/runtime-main.e7b03b7a.js",
+    "runtime-main.js.map": "/new-weather-app-react/static/js/runtime-main.e7b03b7a.js.map",
+    "static/js/2.6bf8281d.chunk.js": "/new-weather-app-react/static/js/2.6bf8281d.chunk.js",
+    "static/js/2.6bf8281d.chunk.js.map": "/new-weather-app-react/static/js/2.6bf8281d.chunk.js.map",
+    "index.html": "/new-weather-app-react/index.html",
+    "precache-manifest.c2e4e64527a276daacdad358f438b800.js": "/new-weather-app-react/precache-manifest.c2e4e64527a276daacdad358f438b800.js",
+    "service-worker.js": "/new-weather-app-react/service-worker.js",
+    "static/css/main.edddeda3.chunk.css.map": "/new-weather-app-react/static/css/main.edddeda3.chunk.css.map",
+    "static/js/2.6bf8281d.chunk.js.LICENSE.txt": "/new-weather-app-react/static/js/2.6bf8281d.chunk.js.LICENSE.txt",
+    "static/media/index.sass": "/new-weather-app-react/static/media/background_vn.654a7c8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7b03b7a.js",
+    "static/js/2.6bf8281d.chunk.js",
+    "static/css/main.edddeda3.chunk.css",
+    "static/js/main.51f51023.chunk.js"
+  ]
+}
