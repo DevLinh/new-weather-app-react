@@ -70,8 +70,6 @@ class App extends Component {
     this.setState({
       value: e.target.value,
     });
-    console.log("target = " + e.target.value);
-    console.log("state = " + this.state.value);
   };
 
   searchWeather = (type, lat, lon, value) => {
@@ -96,7 +94,6 @@ class App extends Component {
         throw Error(res1.statusText, res2.statusText);
       })
       .then(([data1, data2]) => {
-        console.log(data1);
         const months = [
           "January",
           "February",
@@ -153,7 +150,6 @@ class App extends Component {
           weatherInfo,
           error: false,
         });
-        console.log(this.state.weatherInfo);
       })
       .catch((error) => {
         console.log(error);
@@ -174,7 +170,6 @@ class App extends Component {
     navigator.geolocation.getCurrentPosition((position) => {
       //const location = JSON.stringify(position);
       this.setState({ location: position });
-      console.log(typeof this.state.location);
     });
   };
 

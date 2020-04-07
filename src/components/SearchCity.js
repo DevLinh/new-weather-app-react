@@ -29,9 +29,9 @@ const DetectLocationBotton = styled.button`
   display: block;
   position: relative;
   margin: 0;
-  width: 35px;
-  height: 35px;
-  border-radius: 17.5px;
+  width: 39px;
+  height: 39px;
+  border-radius: 19.5px;
   transition: 0.8s;
   background-color: #ffffff;
   border: none;
@@ -39,15 +39,15 @@ const DetectLocationBotton = styled.button`
   font-size: 17px;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  @media ${device.laptopL} {
-    width: 60px;
-    height: 60px;
+  @media ${device.tablet} {
+    width: 42px;
+    height: 42px;
     border-radius: 30px;
     font-size: 18px;
   }
-  @media ${device.desktop} {
-    width: 60px;
-    height: 60px;
+  @media ${device.laptop} {
+    width: 52px;
+    height: 52px;
     border-radius: 30px;
     font-size: 18px;
   }

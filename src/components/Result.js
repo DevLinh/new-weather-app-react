@@ -123,7 +123,7 @@ const Forecast = styled.div`
   display: flex;
   overflow-x: scroll;
   overflow-y: hidden;
-  scrollbar-color: lightgray #ffffff;
+  scrollbar-color: #c4c4c4 #ffffff;
   scrollbar-width: thin;
   margin-top: 20px;
   padding-bottom: 20px;
